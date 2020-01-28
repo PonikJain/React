@@ -1,0 +1,9 @@
+.landingPage {
+  background-image: url(./images/landing_page_bg.jpg);
+  position: relative;
+  top: 0;
+  height: 100vh;
+  background-size: 123%;
+  background-repeat: no-repeat;
+  background-position-x: center;
+}

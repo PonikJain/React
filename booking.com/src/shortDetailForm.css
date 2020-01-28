@@ -1,0 +1,59 @@
+.formParentDiv {
+  position: relative;
+  width: 100%;
+  height: 70vh;
+}
+
+.formChildDiv {
+  margin: 0 auto;
+  width: 70%;
+  height: 70vh;
+}
+
+.formContainer {
+  width: 502px;
+  height: 332px;
+  background: white;
+  border-radius: 4px;
+}
+
+.formContent {
+  padding: 32px;
+}
+
+.formHeader {
+  font-size: 32px;
+  color: #484848;
+  padding: 0px;
+  margin: 0px;
+}
+
+.whereDiv {
+  margin-top: 20px;
+  line-height: 2em;
+}
+
+.formLabrlFont {
+  font-family: Circular, -apple-system, BlinkMacSystemFont, Roboto,
+    "Helvetica Neue", sans-serif !important;
+  font-size: 12px !important;
+  font-weight: 800 !important;
+}
+
+.inputTextBox {
+  width: 100%;
+  font-size: 25px;
+  outline-style: none;
+  border: 0;
+}
+
+.inputBoxDiv {
+  padding: 8px;
+  border: solid 1px #d6d5de;
+  border-radius: 4px;
+}
+
+.inputBoxDiv:focus-within {
+  outline: none;
+  border-color: #409bb3;
+}
